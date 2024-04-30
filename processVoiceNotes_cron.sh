@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Load environment contianing login credentials
-. voiceNoteScripts/sensetel_creds.env
+. VoiceNoteUploadToGSheetVER/sensetel_creds.env
 
 # Open relevant directory
-cd voiceNoteScripts
+cd VoiceNoteUploadToGSheetVER
 
 # Activate virtual environment
 source venv/bin/activate
