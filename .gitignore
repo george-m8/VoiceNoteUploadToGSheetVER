@@ -1,0 +1,13 @@
+# MacOS
+.DS_Store
+
+# Credentials
+*.json
+meta-aura-391914-6efae5df6f97.json
+
+# Virtual Environment
+.venv/
+venv/
+
+# Downloaded Files
+voicenotes/
