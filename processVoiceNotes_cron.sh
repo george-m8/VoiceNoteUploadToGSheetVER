@@ -10,7 +10,7 @@ cd VoiceNoteUploadToGSheetVER
 source venv/bin/activate
 
 # Run script
-python processVoiceNotesV2.py
+python uploadNewVoiceNotesBatch.py
 
 # Deactivate environment
 deactivate
