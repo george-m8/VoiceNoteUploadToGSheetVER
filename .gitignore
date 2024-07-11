@@ -4,6 +4,7 @@
 # Credentials
 *.json
 meta-aura-391914-6efae5df6f97.json
+*.env
 
 # Virtual Environment
 .venv/
