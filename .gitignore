@@ -12,3 +12,6 @@ venv/
 
 # Downloaded Files
 voicenotes/
+
+# Logs
+*.log
