@@ -23,5 +23,5 @@ cd /home/george/VoiceNoteUploadToGSheetVER || { echo "Error: Directory not found
 source venv/bin/activate
 
 # Run script
-python uploadNewVoiceNotesBatch.py >> "$LOGFILE" 2>&1
+python3 uploadNewVoiceNotesBatch.py >> "$LOGFILE" 2>&1
 
